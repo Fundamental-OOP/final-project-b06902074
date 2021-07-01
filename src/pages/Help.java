@@ -81,7 +81,7 @@ public class Help extends ShowPage {
         g.drawString("Press SPACE to shoot the ball", InfoXAxis, 60);
 
         g.drawString("Controlled by Mouse:", tipXAxis, 80);
-        g.drawString("Click the mouse to set the angle. ", InfoXAxis, 100);
+        g.drawString("Drag or click the mouse to set the angle. ", InfoXAxis, 100);
         g.drawString("When release, The ball will be shooted.", InfoXAxis, 120);
 
         for (Obstacle obstacle : this.obstacles) {
