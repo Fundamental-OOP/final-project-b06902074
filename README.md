@@ -20,6 +20,10 @@ or
 make run
 ```
 
+### Demo video
+
+Link: https://youtu.be/X9jpsvmZ0_E
+
 ### Sound Effect Source:
 
 - Bachground music: Super Smash Bros. Ultimate Main Theme
