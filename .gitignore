@@ -1,0 +1,9 @@
+# For mac 
+.DS_Store
+
+# Output file
+out
+
+# Misc
+*.lock
+.vscode/
